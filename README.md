@@ -2,6 +2,27 @@
 
 ### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
 
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+Using the fundamentals
+
+
+## Optimizations
+*(optional)*
+
+
+
+## Lessons Learned:
+Currently figuring how to build tictactoe
+
+
+
+
+
+
+
 ### How to submit your code for review:
 
 - Fork and clone this repo
