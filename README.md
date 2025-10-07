@@ -15,13 +15,13 @@ Using the fundamentals
 
 
 ## Lessons Learned:
-Currently figuring how to build tictactoe
+
+Figuring out how to hide API key before we learned it, with help and looking online.
 
 
 
 
-
-
+README structure partially used from alec-chernicki
 
 ### How to submit your code for review:
 
